@@ -58,6 +58,14 @@ h2{
   float: left;
  }
 
+ .chart1 {
+  float: left;
+  margin-right: 20px;
+ }
+ .chart2 {
+  float: left;
+ }
+
  .chart{
   margin: 0 auto;
  }

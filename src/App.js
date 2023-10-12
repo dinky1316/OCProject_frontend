@@ -13,7 +13,7 @@ import Navbar from "./layout/navbar";
 import Page2 from "./content/page2";
 import Page3 from "./content/page3";
 import Page4 from "./content/page4";
-import Test from "./content/test";
+import Test from "./content/list";
 
 function App() {
   return (
